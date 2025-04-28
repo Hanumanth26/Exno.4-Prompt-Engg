@@ -1,7 +1,65 @@
 # Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
-### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts.
+### Aim:
+To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts.
+ . AI-Powered Writing & Report Generation Tools
+### .1 OpenAI’s ChatGPT (GPT-4-turbo)
+Prompting Techniques Used:
+
+Zero-shot & Few-shot Learning (Direct Q&A, step-by-step reasoning)
+
+Role-Based Prompting ("Act as a business analyst and generate a market trends report...")
+
+Chain-of-Thought (CoT) Prompting (Breaking complex queries into logical steps)
+
+Use Case:
+
+Drafting executive summaries
+
+Generating structured business reports
+
+Automating data interpretation
+
+## .2 Google’s Gemini 1.5
+Prompting Techniques Used:
+
+Retrieval-Augmented Generation (RAG) (Integrating real-time web data)
+
+Template-Based Prompting (Predefined formats for consistency)
+
+Use Case:
+
+Competitive analysis reports
+
+Fact-checked industry insights
+
+## .3 Anthropic’s Claude 3
+Prompting Techniques Used:
+
+Constitutional AI Principles (Ethical & unbiased reporting)
+
+Iterative Refinement Prompts ("Improve this draft with more concise language.")
+
+Use Case:
+
+Compliance and risk assessment reports
+
+Sensitive data summaries
+
+## .4 Microsoft 365 Copilot (Powered by GPT-4)
+Prompting Techniques Used:
+
+Context-Aware Prompts (Leveraging Word/Excel data for dynamic reports)
+
+Multi-Document Synthesis (Combining insights from multiple files)
+
+Use Case:
+
+Financial report automation
+
+Collaborative business documents
+
 
 ### Algorithm:  1. Direct Instruction Prompts
 Objective: Guide the chatbot to respond concisely to customer inquiries.
